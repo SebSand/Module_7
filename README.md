@@ -34,7 +34,7 @@ This application uses the following technologies:
 ## Usage
 
 To use the application, download it and navigate to the folder in your terminal. Then type: voila and the name of the application.
-![terminal](Images/terminal.png):
+![terminal](Images/terminal.png)
 
 A webpage will open with the output from the jupyter notebook.
-![web_app](Images/web_app.png):
+![web_app](Images/web_app.png)
